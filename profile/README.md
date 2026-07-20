@@ -8,6 +8,9 @@ This organisation collects the work of an undergraduate thesis at [FaMAF](https:
 
 Answering it takes two pipeline visualisers, one for each side, built to look and behave the same way so the two pipelines can be placed side by side.
 
+## New here?
+Start with the [CVA6 repository](https://github.com/FaMAF-CVA6-Project/CVA6#readme) for setup and how to run everything.
+
 ## Repositories
 
 - **[MinorFlow](https://github.com/FaMAF-CVA6-Project/MinorFlow)** — a browser-based pipeline visualiser for gem5's MinorCPU, reconstructing the pipeline from gem5 debug traces.
