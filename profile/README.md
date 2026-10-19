@@ -1,4 +1,4 @@
-[FaMAF CVA6 Project](https://raw.githubusercontent.com/FaMAF-CVA6-Project/CVA6/master/assets/FaMAF_CVA6_header.svg)
+![FaMAF CVA6 Project](https://raw.githubusercontent.com/FaMAF-CVA6-Project/CVA6/master/assets/FaMAF_CVA6_header.svg)
 
 Tools for looking inside a RISC-V processor, one cycle at a time.
 
