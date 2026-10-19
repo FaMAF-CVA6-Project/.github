@@ -4,7 +4,7 @@ Tools for looking inside a RISC-V processor, one cycle at a time.
 
 ![A CVA6 pipeline rendered by CVA6Flow](https://raw.githubusercontent.com/FaMAF-CVA6-Project/CVA6Flow/main/docs/CVA6Flow_intro.png)
 
-This organisation collects the work of an undergraduate thesis at [FaMAF](https://www.famaf.unc.edu.ar/), Universidad Nacional de Córdoba. The central question: how closely can a fast, tractable simulator (gem5's MinorCPU) be configured to behave like a real RISC-V core (the CORE-V CVA6), and can we see the difference cycle by cycle?
+This organisation collects the work of a thesis at [FaMAF](https://www.famaf.unc.edu.ar/), Universidad Nacional de Córdoba. The central question: how closely can a fast, tractable simulator (gem5's MinorCPU) be configured to behave like a real RISC-V core (the CORE-V CVA6), and can we see the difference cycle by cycle?
 
 Answering it takes a gem5 configuration matched to the CVA6 RTL, and three pipeline viewers built to look and behave the same way: one for each side, and one that places the two pipelines side by side.
 
